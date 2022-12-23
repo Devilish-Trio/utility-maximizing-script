@@ -17,7 +17,7 @@ def determine_best_decision(items):
 
   return best_item
 
-# (name) Want - (Item)enjoyment/need - (cost)cost/time
+# (name) Want - (Item)enjoyment/need/quantity - (cost)cost/time
 items = [
 
   {'name': 'Item1', 'utility': 10, 'cost': 80},
