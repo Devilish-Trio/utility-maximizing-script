@@ -6,7 +6,7 @@
 - In the script already, imagine you have 3 choices of rollercoaster. 
 - First ride gives you 10/10 happiness but will cost 80 minutes of line waiting. etc etc
 - The program will output the third option, 6/10 satisfaction and 40 minute wait.
-- Through the calculations, it will assume maximum satisfaction.
+- Through the calculations, it will assume maximum satisfaction. (Time + enjoyment)
 - But, as said, (Utility = 10 cars Cost = 50,000) etc you can work out the maximum output in a business need
 
 # Prerequisite
