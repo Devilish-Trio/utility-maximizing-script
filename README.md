@@ -1,5 +1,5 @@
 # Context
-In the real world, you may have multiple decisions to make. You know how much they would make you feel, with 10 being ecstatic and 1 being "I wish I never did it". This isn't just limited to happiness (e.g. Utility = 6/10 happiness, Cost = $250), but also to quantity (e.g. Utility = 10 cars, Cost = 50,000).
+In the real world, you may have multiple decisions to make. You know how much they would make you feel, with 10 being ecstatic and 1 being "I wish I never did it". This isn't just limited to happiness (e.g. Utility = 6/10 happiness, Cost = $250), but also to quantity (e.g. Utility = 10 cars, Cost = $50,000).
 
 The script simulates a model called Utility Maximization, which is a concept used by economists to determine the best decision to make based on the trade-off between the utility (happiness or satisfaction) and the cost of an action. The script works by taking input for the name of the item, the utility and cost of the item, and then calculates the utility maximizing formula to determine the best decision to make.
 
