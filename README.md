@@ -7,6 +7,7 @@ For example, imagine you have 3 choices of rollercoasters. The first ride gives 
 
 Through these calculations, the program will assume that the goal is to maximize satisfaction (utility + cost). However, you can also use this script to make business decisions by inputting different values for the utility and cost of each item.
 
+(https://corporatefinanceinstitute.com/resources/economics/utility-maximization/).
 OpenAI was used to make the script.
 
 # Prerequisite
