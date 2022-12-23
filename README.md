@@ -12,4 +12,4 @@ N/A
 # How TO RUN
 - Run program with your favourite python gui/command line
 # How TO USE
-Modify the section: {'name': 'Item1', 'utility': NUMBERX, 'cost': NUMBERY},
+Modify the section: {'name': 'Item1', 'utility': NUMBERX, 'cost': NUMBERY}
